@@ -1,0 +1,48 @@
+.user{
+	font: Arial;
+	float:right, inline-block;
+}
+
+#navbar{
+	float:right;
+	width:60px;
+	text-align: center;
+	position:absolute;
+	top:0px;
+	right:0px;
+}
+
+#log{
+	text-align:center;
+}
+
+#logo{
+	height:95px;
+	width:269px;
+	padding-top:112px;
+	text-align: -webkit-center;
+}
+
+#search{
+	text-align: -webkit-center;
+	text-align: center;
+}
+
+#searchbar{
+	height:28px;
+	width:670px;
+	text-align: -webkit-center;
+	float: left;
+	font: 15px 'Arial';
+}
+
+div div a{
+	display: inline-block;
+	outline: none;
+	vertical-align: middle;
+	border-radius: 2px;
+	box-sizing: border-box;
+	height: 30px;
+	width: 30px;
+}
+
